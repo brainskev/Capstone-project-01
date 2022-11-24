@@ -92,6 +92,14 @@ body {
     top: 0;
 }
 
+a.last-menu-link {
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    width: 100%;
+    border: 3px solid #ec5242;
+    color: #ec5242;
+}
+
 /* Headline Section */
 .headline {
     display: flex;
@@ -265,4 +273,53 @@ hr {
     border: 1px solid #fff;
     box-sizing: border-box;
     cursor: pointer;
+  }
+
+  .link-1 {
+    display: none;
+  }
+
+  /* Partners */
+
+.partners {
+    display: block;
+    width: 100%;
+    background-color: #2d2d2d;
+  }
+  
+  .partner-title {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 10px;
+    color: #fff;
+  }
+  
+  .partners-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    padding: 40px;
+  }
+
+  /* Footer */
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 12px;
+    padding: 24px;
+  }
+  
+  .footer-desc {
+    font-family: 'Lato', sans-serif;
+    color: #5e5e5e;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 15px;
   }
