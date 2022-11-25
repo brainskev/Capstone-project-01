@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# title
+# COP 27 - UN Climate Change Conference
 This is my first capstone project for modlue 1. 
 It is a workshop website buit for 
 
@@ -27,9 +27,9 @@ It is a workshop website buit for
 
 👤 **Kelvin Kaviku**
 
-- GitHub: [@brainskev](https://github.com/)
-- Twitter: [@kelvin_ngotho](https://twitter.com/)
-- LinkedIn: [kelvin](https://linkedin.com/)
+- GitHub: [@brainskev](https://github.com/brainskev/)
+- Twitter: [@kelvin_ngotho](https://twitter.com/kevin_ngotho?s=09/)
+- LinkedIn: [kelvin](https://www.linkedin.com/in/kelvin-kaviku-5178001a6/)
 
 
 # 🤝 Contributing
