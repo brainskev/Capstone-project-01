@@ -192,10 +192,10 @@ h1.title {
 }
 
 hr {
-    margin-left: 45%;
-    margin-right: 45%;
+    margin-left: 47%;
+    margin-right: 47%;
     margin-bottom: 20px;
-    border-bottom: 3px solid #ec5242;
+    border-bottom: 1px solid #ec5242;
 }
 
 .program-cards {
@@ -304,7 +304,7 @@ hr {
 }
 
 .footer a img {
-    width: 20%;
+    width: 50%;
 }
 
 .speaker-picture img:hover {
@@ -334,7 +334,7 @@ hr {
     margin-bottom: 12px;
     margin-left: 0;
     width: 30px;
-    border-bottom: 3px solid #d3d3d3;
+    border-bottom: 1px solid #d3d3d3;
 }
 
 .about-speaker {
@@ -458,11 +458,12 @@ hr {
     }
 
     .logo a img {
-        width: 20%;
+        width: 80%;
+
     }
 
     .footer a img {
-        width: 20%;
+        width: 50%;
     }
 
     .desktop-menu {
