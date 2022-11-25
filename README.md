@@ -11,7 +11,7 @@ It is a workshop website buit for
    
 
 # Live Demo 
- - Live demo link : 
+ - Live demo link : https://brainskev.github.io/Capstone-project-01/index.html
  - Video recording link : [Loom video](https://www.loom.com/),
                           [Google drive video]()
 
