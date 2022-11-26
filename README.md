@@ -49,7 +49,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [COP 27 - UN Climate Change Conference] <a name="about-project"></a>
+# 📖 COP 27 - UN Climate Change Conference <a name="about-project"></a>
 
 **COP 27** This is my first capstone project for modlue 1. It is a conference website built for United nations Climate change.
 
