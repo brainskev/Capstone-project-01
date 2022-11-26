@@ -51,9 +51,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [COP 27 - UN Climate Change Conference] <a name="about-project"></a>
 
-> This is my first capstone project for modlue 1. 
-
-**[COP 27 - UN Climate Change Conference]** It is a conference website built for United nations Climate change.
+**COP 27** This is my first capstone project for modlue 1. It is a conference website built for United nations Climate change.
 
 ## 🛠 Built With <a name="built-with"></a>
 
