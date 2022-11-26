@@ -51,7 +51,8 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Capstone-project-01 <a name="about-project"></a>
 
-**Capstone-project-01** This is my first capstone project for modlue 1. It is a conference website built for United nations Climate change.
+**Capstone-project-01**  is my capstone project for end of modlue 1 at Microverse. 
+It is a conference website built for United nations Climate change (COP-27) to be held at Sharm el-Sheikh, Egypt.
 
 ## 🛠 Built With <a name="built-with"></a>
 
