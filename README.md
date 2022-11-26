@@ -2,7 +2,7 @@
 
 # COP 27 - UN Climate Change Conference
 This is my first capstone project for modlue 1. 
-It is a workshop website buit for 
+It is a conference website built for United nations Climate change.
 
 # Built With
    - HTML
@@ -12,8 +12,8 @@ It is a workshop website buit for
 
 # Live Demo 
  - Live demo link : https://brainskev.github.io/Capstone-project-01/index.html
- - Video recording link : [Loom video](https://www.loom.com/),
-                          [Google drive video]()
+ - Video recording link : [Loom video](https://www.loom.com/share/a0e0b358497a4325af6e00b0a129580b/),
+                          
 
 # Getting Started
   To get a local copy up and running follow these simple example steps.
