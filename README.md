@@ -66,8 +66,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[Responsive_design]** - All pages are responsive on mobile and desktop screens
-- **[Dynamic_page]** - The section "Featured speakers" is created dynamically in JavaScript
+- **Responsive_design** - All pages are responsive on mobile and desktop screens
+- **Dynamic_page** - The section "Featured speakers" is created dynamically in JavaScript
 
 
 
