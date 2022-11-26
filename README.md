@@ -37,22 +37,14 @@ After you're finished please remove all the comments and instructions!
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -135,7 +127,7 @@ Feel free to check the [issues page](https://github.com/brainskev/Capstone-proje
 ## ⭐️ Show your support <a name="support"></a>
 
 
-Give a  star  If you like this project.
+Give a ⭐️ If you like this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,7 +136,7 @@ Give a  star  If you like this project.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank [Cindy shine in](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) for the Amazing Design Template.
+I would like to thank [Cindy shine](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015) for the Amazing Design Template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
