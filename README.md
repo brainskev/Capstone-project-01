@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # COP 27 - UN Climate Change Conference
-This is a workshop website built for United nations CLimate Change.
+This is a workshop website built for United Nations Climate Change.
 
 # Built With
    - HTML
